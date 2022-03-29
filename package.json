@@ -1,0 +1,11 @@
+{
+  "name": "isaacjuracichfsframework",
+  "version": "1.0.0",
+  "description": "Fullstack Framework to help streamline the process of a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
