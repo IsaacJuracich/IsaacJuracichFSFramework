@@ -1,11 +1,16 @@
 {
   "name": "isaacjuracichfsframework",
   "version": "1.0.0",
-  "description": "Fullstack Framework to help streamline the process of a backend",
+  "description": "Fullstack Framework to help streamline the process of a backend and to avoid the hastle of npm modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Isaac Juracich",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "chalk": "^4.1.1",
+    "generate-api-key": "^1.0.0"
+  }
 }
